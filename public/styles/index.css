@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+.menu {
+  background-color: blueviolet;
+}
+
 a {
   text-decoration: none;
 }
